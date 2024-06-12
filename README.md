@@ -1,9 +1,12 @@
-# npm install
+#Install
 
-# npm run dev
+<p> npm install </p>
 
-# API
+#Start
 
-# api/users
+<p> npm run dev </p>
 
-# api/users/:id
+# Router
+
+<p> api/users </p>
+<p> api/users/:id </p>
